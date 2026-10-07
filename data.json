@@ -1,0 +1,17 @@
+[
+    {
+        "nama": "Indomie Mie Goreng",
+        "harga": "4.000",
+        "stok": "50"
+    },
+    {
+        "nama": "Supermie Mie Goreng",
+        "harga": "2.500",
+        "stok": "60"
+    },
+    {
+        "nama": "Mie Sedaap Mie Goreng",
+        "harga": "3.000",
+        "stok": "70"
+    }
+]
